@@ -14,6 +14,35 @@
 </head>
 
 <body>
+    <!--Responsive implementation of Navigation Bar-->
+
+    <!--Creating a Basic Navigation Bar-->
+    <!--navbar with dark color, when small device it will responsively change, and fixed top of the page-->
+    <nav class="navbar navbar-dark navbar-expand-sm fixed-top">
+        <div class="container">
+
+            <!--responsively change when changing to small device-->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!--for the logo navbar-brand, sufficient margin-->
+            <a class="navbar-brand mr-auto" href="#">Ristorante Con Fusion</a>
+
+            <!--sets of links - displays horizontally, contents push to left as possible-->
+            
+            <div class="collapse navbar-collapse" id="Navbar">
+                <ul class="navbar-nav mr-auto">
+                   <!--allows display horizontally-->
+                   <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
+                   <li class="nav-item"><a class="nav-link" href="./aboutus.html">About</a></li>
+                   <li class="nav-item"><a class="nav-link" href="#">Menu</a></li>
+                   <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+               </ul>
+            </div>
+
+        </div>          
+    </nav>
 
     <header class="jumbotron">
         <div class="container">
@@ -69,7 +98,7 @@
                     <h5>Links</h5>
                     <ul class="list-unstyled">
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
+                        <li><a href="./aboutus.html">About</a></li>
                         <li><a href="#">Menu</a></li>
                         <li><a href="#">Contact</a></li>
                     </ul>
