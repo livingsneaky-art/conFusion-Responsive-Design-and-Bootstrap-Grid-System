@@ -22,4 +22,5 @@ Contributors
 
 Project Status
 Complete(Week-1) - 03/01/2023
-Ongoing(Week-2) - 05/01/2023
+Complete(Week-2) - 07/01/2023
+Ongoing(Week-3) - 13/01/2023
