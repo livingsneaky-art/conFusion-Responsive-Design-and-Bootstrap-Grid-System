@@ -13,15 +13,15 @@ Username:<br>
 Password:<br>
 (pending)<br>
 
-##Note:<br> 
-##Debug //<br>
-##Documentation<br>
-##Refer to `documentation.<br>
+## Note:<br> 
+## Debug //<br>
+## Documentation<br>
+## Refer to `documentation.<br>
 
-##Contributors<br>
+## Contributors<br>
 LLAMIDO, RYAN B.<br>
 
-##Project Status<br>
+## Project Status<br>
 Complete(Week-1) - 03/01/2023<br>
 Complete(Week-2) - 07/01/2023<br>
 Complete(Week-3) - 14/01/2023<br>
