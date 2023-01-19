@@ -1,43 +1,28 @@
-Ecommerce System
+## Ecommerce System<br>
+A fully dynamic functional responsive ecommerce created with HTML5, CSS, BOOTSTRAP4, JQUERY, POPPER, AND JAVASCRIPT.<br>
 
-A fully dynamic functional responsive ecommerce created with HTML5, CSS, BOOTSTRAP4, JQUERY, POPPER, AND JAVASCRIPT.
+## Features<br>
+For admin<br>
+(pending)<br>
 
-Features
+For customer<br>
+(pending)<br>
 
-For admin
+## Login Information<br>
+Username:<br>
+Password:<br>
+(pending)<br>
 
-(pending)
+##Note:<br> 
+##Debug //<br>
+##Documentation<br>
+##Refer to `documentation.<br>
 
-For customer
+##Contributors<br>
+LLAMIDO, RYAN B.<br>
 
-(pending)
-
-Login Information
-
-Username: 
-
-Password: 
-
-(pending)
-
-Note: 
-
-Debug //
-
-Documentation
-
-Refer to `documentation.
-
-Contributors
-
-LLAMIDO, RYAN B.
-
-Project Status
-
-Complete(Week-1) - 03/01/2023
-
-Complete(Week-2) - 07/01/2023
-
-Complete(Week-3) - 14/01/2023
-
-Ongoing(Week-4) - 15/01/2023
+##Project Status<br>
+Complete(Week-1) - 03/01/2023<br>
+Complete(Week-2) - 07/01/2023<br>
+Complete(Week-3) - 14/01/2023<br>
+Ongoing(Week-4) - 15/01/2023<br>
