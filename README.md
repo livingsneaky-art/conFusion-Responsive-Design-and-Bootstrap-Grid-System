@@ -25,4 +25,4 @@ LLAMIDO, RYAN B.<br>
 Complete(Week-1) - 03/01/2023<br>
 Complete(Week-2) - 07/01/2023<br>
 Complete(Week-3) - 14/01/2023<br>
-Ongoing(Week-4) - 15/01/2023<br>
+Complete(Week-4) - 20/01/2023<br>
